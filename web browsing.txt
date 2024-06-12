@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle>types of web browser</tittle>
+</head>
+<body>
+<h1>what is a web browser</h1>
+<p1>a web browser is a software application used to access and interact with information on the World Wide Web.(WWW) It allows users to view web pages, download files, stream videos and conduct various online activities.
+<h2>what is a search engine</h2>
+<p2>search engine is a software system designed to perform web searches, meaning it searches the World Wide Web in a systematic way for particular information specified in a textual web search query.
+<table>
+<caption>web browser</caption>
+<tr>
+<th>web browser</th>
+<th>search engine</th>
+</tr>
+<td>chromes</td>
+<td>googles</td>
+<td>internet elporer</td>
+<td>yahoo</td>
+<td>microsoft edges</td>
+<td>bing<td/td>
+<td>safari</td>
+<td>google</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
